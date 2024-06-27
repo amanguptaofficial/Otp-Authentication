@@ -39,7 +39,7 @@ git clone https://github.com/amanguptaofficial/Otp-Authentication.git
 
 ## Access the Application
 
-backend servers are running, you can access the application at http://localhost:3000 in your web browser.
+backend servers are running, you can access the application at http://localhost:3000/send-otp,http://localhost:3000/verify-otp in the postman
 
 Feel free to explore, test, and customize this OTP authentication system according to your requirements. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
